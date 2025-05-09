@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @kriscen
+- 👋 Hi, I’m @kris
 - 📫 welcome
